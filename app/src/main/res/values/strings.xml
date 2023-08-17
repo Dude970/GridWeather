@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GridWeather</string>
+    <string name="weather_icon">Temp</string>
+</resources>
